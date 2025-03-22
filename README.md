@@ -7,3 +7,4 @@ Esto es de un Sistema de Regression Lineal simple.
 datos a carga con extencion .xlsx
 
 Sin licencias.
+ Echo por CLiveer
