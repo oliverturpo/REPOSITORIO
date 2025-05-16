@@ -8,4 +8,3 @@ datos a carga con extencion .xlsx
 
 Sin licencias.
  Echo por CLiveer
-...
